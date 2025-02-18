@@ -7,12 +7,12 @@
 - ⚡ Fun fact: take my motorbike and ride out from the city
 
 - MY PROJECTS:
-==> https://github.com/YaniGM/PingTst.git
-==> https://github.com/YaniGM/IsdDfastestDSN.git
-==> https://github.com/YaniGM/MyDSN.git
+- ==> https://github.com/YaniGM/PingTst.git
+- ==> https://github.com/YaniGM/IsdDfastestDSN.git
+- ==> https://github.com/YaniGM/MyDSN.git
 
 - TEAM PROJECT:
-==> https://github.com/EstebaTB/Diagramers-Producto-5.git 
+- ==> https://github.com/EstebaTB/Diagramers-Producto-5.git 
 
 <!---
 YaniGM/YaniGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
