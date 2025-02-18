@@ -5,6 +5,7 @@
 - 📫 How to reach me through jgiatas@uoc.edu
 - 😄 Pronouns: Kali Linux, Visual Studio Code, Python 
 - ⚡ Fun fact: take my motorbike and ride out from the city
+- MY PROJECTS: ==> https://github.com/YaniGM/PingTst.git
 
 <!---
 YaniGM/YaniGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
